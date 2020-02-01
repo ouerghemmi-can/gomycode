@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+    <form>
+    <label>name</label><input form="text">
+    <br>
+    <label>track</label>
+    <br>
+    <label>Email adress</label><input form="text">
+    <br>
+    <label>Phone Number</label><input form="Number">
+    <br>
+    <input type=submit value="Submit">
+
+
+    </body>
+    </html>
